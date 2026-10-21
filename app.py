@@ -4820,8 +4820,8 @@ with gr.Blocks(
 
                 <div class="hero-project-title">
 
-                    Tarihî İddialar İçin
-                    Kaynak Eleştirisi Tabanlı
+                    Tarihî İddiaları Kanıta Dayalı
+                    Değerlendiren
                     Yapay Zekâ Asistanı
 
                 </div>
