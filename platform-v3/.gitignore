@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+private/
+ogretmen_kodlari.csv
+supabase_katilimcilar.csv
